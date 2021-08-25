@@ -1,4 +1,3 @@
-#!/usr/bin/perl
+print 44%4;
+print "\n";
 
-#输出 "hello, world"
-print "hello, world\n"
